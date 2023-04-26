@@ -1,0 +1,9 @@
+.App {
+  /*position: relative;*/
+  height: 100vh;
+  font-family: "Varela Round", sans-serif;
+}
+.banner {
+  height: 35vh;
+  background-color: rgba(54, 214, 62, 0.794);
+}
