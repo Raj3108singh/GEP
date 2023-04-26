@@ -11,6 +11,7 @@
 .input {
   border: none;
   width: 90%;
+  font-size: 18px;
 }
 
 .input:focus {
